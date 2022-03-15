@@ -1,6 +1,3 @@
-# определяем список хабов, которые нам интересны
-# import datetime as DT
-# import bs4
 import requests
 from bs4 import BeautifulSoup
 
